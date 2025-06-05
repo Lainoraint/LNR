@@ -1,6 +1,6 @@
-# coba_ml
+# LNR
 
-A new Flutter project.
+Letter Number Recognition
 
 ## Getting Started
 
